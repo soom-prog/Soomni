@@ -1,6 +1,6 @@
-//ASCII ART
-#include <stdio.h>
-void main()
+//"ASCII ART"
+#include <iostream>
+int main()
 {
 	printf("  _  ___              _____       __  __ _       \n");
 	printf(" | |/ (_)            / ____|     |  \\/  (_)      \n");
@@ -8,4 +8,5 @@ void main()
 	printf(" |  < | | '_ ` _ \\   \\___ \\| | | | |\\/| | | '_ \\ \n");
 	printf(" | . \\| | | | | | |  ____) | |_| | |  | | | | | |\n");
 	printf(" |_|\\_\\_|_| |_| |_| |_____/ \\__,_|_|  |_|_|_| |_|\n");
+	std::cin.get();
 }
