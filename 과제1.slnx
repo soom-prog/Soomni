@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Image/Image.vcxproj" Id="c1ba66cc-9bee-4d54-af4a-62f704db7e16" />
+  <Project Path="Kim SuMin/Kim SuMin.vcxproj" Id="42375177-af2f-4310-ad6c-e421c407178f" />
+</Solution>

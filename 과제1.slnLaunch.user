@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "새 프로필",
+    "Projects": [
+      {
+        "Path": "Kim SuMin\\Kim SuMin.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Image\\Image.vcxproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
